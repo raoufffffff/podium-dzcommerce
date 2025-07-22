@@ -12,9 +12,26 @@
       "https://i.ibb.co/chVhmHTK/IMG-6931.jpg"
     ],
     "lanImg": "",
-    "visit": 0,
+    "visit": 11,
     "orders": 0,
     "date": "2025-07-22T22:28:51.042Z",
+    "__v": 0
+  },
+  {
+    "_id": "68801210d75cefa8fd1c7d52",
+    "userId": "68800d2ad64c09615c697efe",
+    "name": "Rs ",
+    "sTitel": "",
+    "price": 3000,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://i.ibb.co/gMPCVnYg/IMG-6936.jpg"
+    ],
+    "lanImg": "",
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-07-22T22:34:56.569Z",
     "__v": 0
   }
 ]
