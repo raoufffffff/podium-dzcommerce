@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "_id": "688010a3716cc2809be0c9e4",
+    "userId": "68800d2ad64c09615c697efe",
+    "name": "Gucci ",
+    "sTitel": "",
+    "price": 3000,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://i.ibb.co/5Xv2HQ2M/0-CBF3388-CAE7-4-E8-D-973-E-3-DC804-AFE4-AB.jpg",
+      "https://i.ibb.co/chVhmHTK/IMG-6931.jpg"
+    ],
+    "lanImg": "",
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-07-22T22:28:51.042Z",
+    "__v": 0
+  }
+]
