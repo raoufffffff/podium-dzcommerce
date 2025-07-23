@@ -12,7 +12,7 @@
     "code": "02",
     "name": "Chlef",
     "ar_name": "الشلف",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 850
   },
   {
@@ -20,7 +20,7 @@
     "code": "03",
     "name": "Laghouat",
     "ar_name": "الأغواط",
-    "stop_back": 600,
+    "stop_back": 650,
     "prix_initial": 950
   },
   {
@@ -28,7 +28,7 @@
     "code": "04",
     "name": "Oum elbouaghi",
     "ar_name": "أم البواقي",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 850
   },
   {
@@ -36,7 +36,7 @@
     "code": "05",
     "name": "Batna",
     "ar_name": "باتنة",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 900
   },
   {
@@ -44,7 +44,7 @@
     "code": "06",
     "name": "Béjaïa",
     "ar_name": "بجاية",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 800
   },
   {
@@ -60,7 +60,7 @@
     "code": "08",
     "name": "Bechar",
     "ar_name": "بشار",
-    "stop_back": 700,
+    "stop_back": 750,
     "prix_initial": 1100
   },
   {
@@ -68,7 +68,7 @@
     "code": "09",
     "name": "Blida",
     "ar_name": "البليدة",
-    "stop_back": 400,
+    "stop_back": 450,
     "prix_initial": 600
   },
   {
@@ -76,7 +76,7 @@
     "code": "10",
     "name": "Bouira",
     "ar_name": "البويرة",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 700
   },
   {
@@ -108,7 +108,7 @@
     "code": "14",
     "name": "Tiaret",
     "ar_name": "تيارت",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 850
   },
   {
@@ -116,7 +116,7 @@
     "code": "15",
     "name": "Tizi ouzou",
     "ar_name": "تيزي وزو",
-    "stop_back": 499,
+    "stop_back": 500,
     "prix_initial": 750
   },
   {
@@ -124,7 +124,7 @@
     "code": "16",
     "name": "Alger",
     "ar_name": "الجزائر",
-    "stop_back": 350,
+    "stop_back": 400,
     "prix_initial": 500
   },
   {
@@ -140,7 +140,7 @@
     "code": "18",
     "name": "Jijel",
     "ar_name": "جيجل",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 800
   },
   {
@@ -148,7 +148,7 @@
     "code": "19",
     "name": "Sétif",
     "ar_name": "سطيف",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 800
   },
   {
@@ -164,7 +164,7 @@
     "code": "21",
     "name": "Skikda",
     "ar_name": "سكيكدة",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 900
   },
   {
@@ -172,7 +172,7 @@
     "code": "22",
     "name": "Sidi belabbes",
     "ar_name": "سيدي بلعباس",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 900
   },
   {
@@ -180,7 +180,7 @@
     "code": "23",
     "name": "Annaba",
     "ar_name": "عنابة",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 850
   },
   {
@@ -188,7 +188,7 @@
     "code": "24",
     "name": "Guelma",
     "ar_name": "قالمة",
-    "stop_back": 600,
+    "stop_back": 650,
     "prix_initial": 900
   },
   {
@@ -196,7 +196,7 @@
     "code": "25",
     "name": "Constantine",
     "ar_name": "قسنطينة",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 800
   },
   {
@@ -204,7 +204,7 @@
     "code": "26",
     "name": "Medea",
     "ar_name": "المدية",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 750
   },
   {
@@ -212,7 +212,7 @@
     "code": "27",
     "name": "Mostaganem",
     "ar_name": "مستغانم",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 900
   },
   {
@@ -228,7 +228,7 @@
     "code": "29",
     "name": "Mascara",
     "ar_name": "معسكر",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 900
   },
   {
@@ -244,7 +244,7 @@
     "code": "31",
     "name": "Oran",
     "ar_name": "وهران",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 800
   },
   {
@@ -268,7 +268,7 @@
     "code": "34",
     "name": "Bordj bou arreridj",
     "ar_name": "برج بوعريريج",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 800
   },
   {
@@ -316,7 +316,7 @@
     "code": "40",
     "name": "Khenchela",
     "ar_name": "خنشلة",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 900
   },
   {
@@ -332,7 +332,7 @@
     "code": "42",
     "name": "Tipaza",
     "ar_name": "تيبازة",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 650
   },
   {
@@ -340,7 +340,7 @@
     "code": "43",
     "name": "Mila",
     "ar_name": "ميلة",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 900
   },
   {
@@ -348,7 +348,7 @@
     "code": "44",
     "name": "Ain defla",
     "ar_name": "عين الدفلى",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 900
   },
   {
@@ -364,7 +364,7 @@
     "code": "46",
     "name": "Ain temouchent",
     "ar_name": "عين تموشنت",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 900
   },
   {
@@ -380,7 +380,7 @@
     "code": "48",
     "name": "Relizane",
     "ar_name": "غليزان",
-    "stop_back": 500,
+    "stop_back": 550,
     "prix_initial": 900
   },
   {
@@ -396,7 +396,7 @@
     "code": "50",
     "name": "Bordj Badji Mokhtar",
     "ar_name": "برج باجي مختار",
-    "stop_back": 400,
+    "stop_back": 1200,
     "prix_initial": 1800
   },
   {
